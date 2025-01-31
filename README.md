@@ -1,8 +1,8 @@
 ## Olá! Meu nome é Rafael Yukio 👋
 
-- 📖 Estudante de Análise e Desenvolvimento de Sistemas no IFSP
+- 📖 Estudante de Análise e Desenvolvimento de Sistemas no IFSP e Estagiario em Laboratorio de Maker
 - 💬 Tenho interesse em música, arte e outros processos que envolvem criatividade
-- 💻 Linguagens favoritas: Java, JavaScript e HTML
+- 💻 Linguagens favoritas: Java, JavaScript, HTML, CSS, ReactJS...
 - 😄 Pronomes: ele / dele
 
 
