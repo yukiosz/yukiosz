@@ -6,7 +6,7 @@
 - 😄 Pronomes: ele / dele
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukiosz&show_icons=true&theme=shadow_red)         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
