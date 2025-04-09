@@ -2,7 +2,7 @@
 
 - 📖 Estudante de Análise e Desenvolvimento de Sistemas no IFSP e Estagiario em Laboratorio de Maker
 - 💬 Tenho interesse em música, arte e outros processos que envolvem criatividade
-- 💻 Linguagens favoritas: Java, JavaScript, HTML, CSS, ReactJS...
+- 💻 Linguagens favoritas: Java, JavaScript, ReactJS, Python
 - 😄 Pronomes: ele / dele
 
 
